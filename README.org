@@ -1,0 +1,4 @@
+* An introductory QMC lecture
+
+Lecture imparted to master students of the TU Dresden. The slides
+were generated using the RISE plugin for the Jupyter notebooks.
