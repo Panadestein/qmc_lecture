@@ -1,4 +1,8 @@
 * An introductory QMC lecture
 
-Lecture imparted to master students of the TU Dresden. The slides
-were generated using the RISE plugin for the Jupyter notebooks.
+An introduction to quantum Monte Carlo methods with emphasis in variational Monte Carlo. Imparted to the
+master students of the course [[https://golzegroup.org/htdocs/wp-content/uploads/exercises_m19/][Modern Topics in Theoretical and Computational Chemistry]], at the TU Dresden.
+This course is imparted at the TU Dresden by Dr. Dorothea Golze and one lecture from Dr. Ramón L. Panadés-Barrueta.
+
+The slides where generated using Jupyter notebooks with the [[https://rise.readthedocs.io/en/stable/][RISE]] plugin, which transpiles them to [[https://revealjs.com/][reveal.js]].
+The repo also contains a simple VMC exercise in Python.
